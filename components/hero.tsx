@@ -95,8 +95,8 @@ export function Hero() {
                 </a>
 
                 <a
-                  href="/Ambar-CV.pdf"
-                  download="Ambar-Tiwari-Resume.pdf"
+                  href="/Ambar-Tiwari-CV.pdf"
+                  download="Ambar-Tiwari-CV.pdf"
                   className="inline-flex items-center justify-center gap-1.5 px-3 py-3 sm:px-5 sm:py-3.5 rounded-xl font-semibold text-xs sm:text-sm text-cyan-300 hover:text-white bg-cyan-500/10 hover:bg-cyan-500/20 border border-cyan-500/30 hover:border-cyan-400 active:scale-95 transition-all"
                 >
                   <Icons.download size={15} />
